@@ -24,6 +24,7 @@ int main(int argc, char **argv)
     printf("Using n=%lld random points\n", N);
     printf("%3s, %6s, %6s, %7s, %7s\n", "P", "T", "S_rel", "pi", "error");
 
+    // for each number of threads
     for (int i = 0; i < nc; i++)
     {
         int nt = conf[i];

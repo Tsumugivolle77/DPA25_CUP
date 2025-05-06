@@ -1,0 +1,3 @@
+/Users/offensive77/Code/25SoSe/DPA_CUP/DPA25_CUP/exercise_sheet_1_5/build/CMakeFiles/prog.dir
+/Users/offensive77/Code/25SoSe/DPA_CUP/DPA25_CUP/exercise_sheet_1_5/build/CMakeFiles/edit_cache.dir
+/Users/offensive77/Code/25SoSe/DPA_CUP/DPA25_CUP/exercise_sheet_1_5/build/CMakeFiles/rebuild_cache.dir

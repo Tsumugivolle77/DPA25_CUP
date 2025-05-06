@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/offensive77/Code/25SoSe/DPA_CUP/DPA25_CUP/exercise_sheet_1_5/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I/opt/homebrew/Caskroom/miniforge/base/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -fopenmp -o CMakeFiles/prog.dir/main.c.o -c /Users/offensive77/Code/25SoSe/DPA_CUP/DPA25_CUP/exercise_sheet_1_5/main.c",
+  "file": "/Users/offensive77/Code/25SoSe/DPA_CUP/DPA25_CUP/exercise_sheet_1_5/main.c",
+  "output": "CMakeFiles/prog.dir/main.c.o"
+}
+]
